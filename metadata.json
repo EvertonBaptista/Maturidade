@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma de Maturidade em IA - Insper",
+  "description": "Plataforma SaaS moderna de avaliação de maturidade em Inteligência Artificial baseada no framework do Insper. Focada em governança, risco, compliance, dados, MLOps e IA responsável.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
